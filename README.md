@@ -1,6 +1,6 @@
 # MetaCRS
-Code for WSDM 2023 long paper **Meta Policy Learning for Cold-Start Conversational
-Recommendation**.
+Code for WSDM 2023 long paper **[Meta Policy Learning for Cold-Start Conversational
+Recommendation](https://arxiv.org/abs/2205.11788)**.
 
 ## Usage
 Run the model with default settings
